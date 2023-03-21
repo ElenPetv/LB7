@@ -108,3 +108,14 @@ canvas.grid(row=0, column=1, rowspan=10)
 text.grid(row=11, column=1, rowspan=3)
 win.mainloop()
 
+b_triangle.grid(row=0, column=0)
+b_rectangle.grid(row=1, column=0)
+b_oval.grid(row=2, column=0)
+b_cleaning.grid(row=3, column=0)
+
+
+canvas.grid(row=0, column=1, rowspan=10)
+text.grid(row=11, column=1, rowspan=3)
+win.mainloop()
+
+
