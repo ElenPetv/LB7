@@ -118,4 +118,8 @@ canvas.grid(row=0, column=1, rowspan=10)
 text.grid(row=11, column=1, rowspan=3)
 win.mainloop()
 
+canvas.grid(row=0, column=1, rowspan=10)
+text.grid(row=11, column=1, rowspan=3)
+win.mainloop()
+
 
